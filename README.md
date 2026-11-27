@@ -17,6 +17,19 @@ I bridge business objectives and engineering execution, turning complex technica
 
 **Start here:** The [archive case study](case-studies/ai-archive-digitization.md) is the best example of how I approach a real business problem, translate it into technical requirements, and define responsible delivery and validation.
 
+## Technical evidence — start with the artifacts
+
+| Capability | Inspectable evidence |
+| --- | --- |
+| Client delivery and responsible AI | [Anonymized archive case study](case-studies/ai-archive-digitization.md) — architecture decisions, review controls, validation scope |
+| AI platform governance | [Security and RBAC requirements](https://github.com/jacattac314/enterprise-ai-platform-transition/blob/main/PRDs/01_Security_and_RBAC_Framework.md) · [Compliance reporting implementation](https://github.com/jacattac314/enterprise-ai-platform-transition/blob/main/src/security/compliance_reporter.py) |
+| Agentic delivery automation | [Autopilot setup and integration guide](https://github.com/jacattac314/AI-Project-Autopilot-Agent) · [Build and test configuration](https://github.com/jacattac314/AI-Project-Autopilot-Agent/blob/main/package.json) |
+| Applied ML | [Racing model pipeline configuration](https://github.com/jacattac314/AI-Driven-Racing-Analytics-Optimizing-Lap-Time-Predictions/blob/claude/ml-lap-time-forecasting-31en1/config/config.yaml) — public-data research prototype |
+| Model lifecycle and launch readiness | [ModelOps release gates](https://github.com/jacattac314/ModelOps-Control-Tower-Core-LLM-Program-Simulator/blob/claude/llm-training-ops-platform-9fyGO/docs/release-gates.md) — simulated program governance |
+| Local AI infrastructure | [Hermes-X proxy implementation](https://github.com/jacattac314/Hermes-X/blob/main/server.py) — local agent integration and tracing |
+
+These links demonstrate available specifications and implementation artifacts, not independently verified production performance. For an interview, I can discuss the tradeoffs, validation approach, and limits of each project.
+
 ## Professional experience
 
 - **Spectrum:** Cross-functional technical delivery and enterprise platform modernization.
